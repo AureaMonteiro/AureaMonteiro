@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Aurea+Monteiro;Sou+Analista+de+Teste+e+Qualidade+de+Software;e+estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Aurea+Monteiro;Sou+Analista+QA;e+estudante+de+Eng.+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <div  align="left"> 
   <div style="display: inline_block">
